@@ -45,6 +45,8 @@ Each run appends to deleted_images_log.txt in the selected folder, containing:
 - List of deleted image paths
 
 ## 👨‍💻 Author
-Developed by Abhishek Satpathy [www.abhisat.com]
+Developed by: 
+- Abhishek Satpathy [www.abhisat.com]
+- Mohammed Aftab Siddique [www.thecodingfeast.co.in]
 
 For feedback or contributions, feel free to open an issue or submit a pull request.
